@@ -1,5 +1,5 @@
 # Safety Zone Source Code
-**READ THE LICENSE:** ***https://github.com/VexdStudios/SafetyZone/blob/main/LICENSE.md***
+**READ THE LICENSE:** ***https://github.com/VexdStudios/SafetyZone/blob/master/LICENSE.md***
 
 **If you came here to play safety zone, go here:** ***https://vexedstudios.itch.io/safetyzone***
 
