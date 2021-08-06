@@ -12,6 +12,8 @@ Safety Zone is a mainly multiplayer FPS Shooter game based in a futuristic scene
 
 **IF YOU HAVE ANY PROBLEMS RENGARDING THE PROTON WIZARD TELL US ON OUR DISCORD:** ***https://discord.gg/TNR58Hq9CB***
 
+**NOTE:** We're Finxing The Proton Wizard! Hang Tight Until This Disappeares!
+
 **IMPORTANT INFO:** Unity Version: 2020.3.12f1
 
 Copyright © Vexed Studios, All Rights Reserved.
