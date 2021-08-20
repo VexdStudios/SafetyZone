@@ -1,5 +1,5 @@
 # Safety Zone Source Code
-**READ THE LICENSE:** ***https://github.com/VexdStudios/SafetyZone/blob/main/LICENSE.md***
+**READ THE LICENSE:** ***https://github.com/VexdStudios/SafetyZone/blob/master/LICENSE.md***
 
 **If you came here to play safety zone, go here:** ***https://vexedstudios.itch.io/safetyzone***
 
@@ -8,7 +8,13 @@
 
 Safety Zone is a mainly multiplayer FPS Shooter game based in a futuristic scene.
 
-**Please keep in mind, this is still in VERY VERY early development and it is not even close to what the actual game is going to turn out to be. **
+**Please keep in mind, this is still in VERY VERY early development and it is not even close to what the actual game is going to turn out to be.**
+
+**IF YOU HAVE ANY PROBLEMS RENGARDING THE PROJECT TELL US ON OUR DISCORD:** ***https://discord.gg/TNR58Hq9CB***
+
+**NOTE:** We're Fixing The Proton Wizard! Hang Tight Until This Disappeares!
+
+**IMPORTANT INFO:** Unity Version: 2020.3.12f1
 
 Copyright © Vexed Studios, All Rights Reserved.
 
