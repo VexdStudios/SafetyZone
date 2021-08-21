@@ -16,9 +16,9 @@ public class BetaUsernames : MonoBehaviour
     #endregion
 
     #region Variables Poggers
-    private string beta_zax = "Zax";
-    private string beta_niqht = "Niqht";
-    public GameObject devMenu; 
+    //private string beta_zax = "Zax";
+    //private string beta_niqht = "Niqht";
+    public GameObject devMenu;
 
     #endregion
 
@@ -40,7 +40,7 @@ public class BetaUsernames : MonoBehaviour
 
         }
     }
-    
+
     public void DevBackButton()
     {
         devMenu.SetActive(false);
