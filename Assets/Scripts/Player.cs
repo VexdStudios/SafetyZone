@@ -47,8 +47,8 @@ namespace Com.Kawaiisun.SimpleHostile
         private Text ui_ammo;
         public Text ui_username;
         private Text ui_team;
-        private string beta_zax = "Zax";
-        private string beta_niqht = "Niqht";
+//        private string beta_zax = "Zax";
+//        private string beta_niqht = "Niqht";
         private Rigidbody rig;
 
         private Vector3 targetWeaponBobPosition;

@@ -1,10 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 namespace Com.Kawaiisun.SimpleHostile
 {
-    public class MainMenu : MonoBehaviour
+    public class MultiMenu : MonoBehaviour
     {
         public Launcher launcher;
 
@@ -25,9 +26,9 @@ namespace Com.Kawaiisun.SimpleHostile
             launcher.Create();
         }
 
-        public void QuitGame()
+        public void BackToMainMenu()
         {
-            Application.Quit();
+            SceneManager.LoadScene("Main Menu");
         }
     }
 }

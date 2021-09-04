@@ -1591,7 +1591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 400
-  sprintModifier: 2
+  sprintModifier: 3
   crouchModifier: 0.5
   slideModifier: 2.5
   jumpForce: 625
